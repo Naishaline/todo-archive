@@ -1,0 +1,10 @@
+{
+	"id": "todo-archive",
+	"name": "Daily Todo Archive",
+	"version": "1.0.0",
+	"minAppVersion": "0.12.0",
+	"description": "When you drag a document to a specified folder, it'll timestamp it and create a new document with an identical name in the place it was before.",
+	"author": "Aiden Baker",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}
